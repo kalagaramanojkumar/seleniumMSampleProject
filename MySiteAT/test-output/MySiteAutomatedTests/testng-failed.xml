@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MySiteAutomatedTests]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="SuccessfulLoginTest(failed)">
+    <classes>
+      <class name="com.mysite.testcases.TC_MySiteLoginTest">
+        <methods>
+          <include name="verifyMySiteLogin"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mysite.testcases.TC_MySiteLoginTest -->
+    </classes>
+  </test> <!-- SuccessfulLoginTest(failed) -->
+</suite> <!-- Failed suite [MySiteAutomatedTests] -->

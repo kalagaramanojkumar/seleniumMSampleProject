@@ -1,0 +1,36 @@
+[INFO ] 2024-02-10 08:52:18.025 [main] MySite -  Given URL Opened
+[INFO ] 2024-02-10 08:52:18.128 [main] MySite - Login Test Passed
+[INFO ] 2024-02-10 08:52:18.131 [main] MySite - Login Verified, User successfully logged into MySite
+[INFO ] 2024-02-10 08:52:18.245 [main] MySite - CustomerID selected from dropdown
+[INFO ] 2024-02-10 08:52:20.876 [main] MySite - Results shown for searchWithCustomerID: 14187
+[INFO ] 2024-02-10 08:52:41.403 [main] MySite - SiteSearch expandButton Clicked
+[INFO ] 2024-02-10 08:52:41.404 [main] MySite - SiteSearched successfully
+[INFO ] 2024-02-10 08:52:41.714 [main] MySite - clicked on add new sublocation button
+[INFO ] 2024-02-10 08:52:42.125 [main] MySite - Clicked on createSubLocation Button
+[INFO ] 2024-02-10 08:52:42.547 [main] MySite - Sublocation creation Failed.
+[INFO ] 2024-02-10 08:52:42.741 [main] MySite - Screenshot captured.
+[INFO ] 2024-02-10 08:57:36.609 [main] MySite - CustomerID selected from dropdown
+[INFO ] 2024-02-10 08:57:38.134 [main] MySite - Results shown for searchWithCustomerID: 14187
+[INFO ] 2024-02-10 08:57:41.199 [main] MySite - Clicked on Add a New Site Tab
+[INFO ] 2024-02-10 08:59:45.067 [main] MySite - CustomerID selected from dropdown
+[INFO ] 2024-02-10 08:59:46.658 [main] MySite - Results shown for searchWithCustomerID: 14187
+[INFO ] 2024-02-10 08:59:49.714 [main] MySite - Clicked on Add a New Site Tab
+[INFO ] 2024-02-10 09:01:31.736 [main] MySite - CustomerID selected from dropdown
+[INFO ] 2024-02-10 09:01:33.285 [main] MySite - Results shown for searchWithCustomerID: 14187
+[INFO ] 2024-02-10 09:01:36.343 [main] MySite - Clicked on Add a New Site Tab
+[INFO ] 2024-02-14 19:08:43.306 [main] MySite - CustomerID selected from dropdown
+[INFO ] 2024-02-14 19:08:46.656 [main] MySite - Results shown for searchWithCustomerID: 14187
+[INFO ] 2024-02-14 19:08:49.723 [main] MySite - Clicked on Add a New Site Tab
+[INFO ] 2024-02-14 19:09:23.146 [main] MySite - Site Creation status: Error
+[INFO ] 2024-02-14 19:09:23.303 [main] MySite - Screenshot captured.
+[INFO ] 2024-02-14 19:09:34.476 [main] MySite -  Given URL Opened
+[INFO ] 2024-02-14 19:09:34.526 [main] MySite - Login Test Passed
+[INFO ] 2024-02-14 19:09:34.526 [main] MySite - Login Verified, User successfully logged into MySite
+[INFO ] 2024-02-14 19:09:34.623 [main] MySite - CustomerID selected from dropdown
+[INFO ] 2024-02-14 19:09:36.118 [main] MySite - Results shown for searchWithCustomerID: 14187
+[INFO ] 2024-02-14 19:10:09.894 [main] MySite - SiteSearch expandButton Clicked
+[INFO ] 2024-02-14 19:10:09.894 [main] MySite - SiteSearched successfully
+[INFO ] 2024-02-14 19:10:10.680 [main] MySite - clicked on add new sublocation button
+[INFO ] 2024-02-14 19:10:11.064 [main] MySite - Clicked on createSubLocation Button
+[INFO ] 2024-02-14 19:10:11.676 [main] MySite - Sublocation creation Failed.
+[INFO ] 2024-02-14 19:10:11.800 [main] MySite - Screenshot captured.

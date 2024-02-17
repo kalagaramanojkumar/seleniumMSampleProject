@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MySiteAutomationTesting">
+<listeners>
+<listener class-name="com.mysite.utilities.ExtentListenerClass"></listener>
+</listeners>
+  <test thread-count="5" name="Site Creation">
+    <classes>
+      <class name="com.mysite.testcases.TC_AddNewSite"/>
+    </classes>
+  </test> <!-- Site Creation -->
+</suite> <!-- MySiteAutomationTesting -->

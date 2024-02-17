@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MyOrder Automated Tests]">
+  <test thread-count="5" name="C:/Users/612627350/MyOrderRAT/MyOrderAT(failed)">
+    <classes>
+      <class name="com.bt.MyOrder.AddProductAfterQuoteCreation">
+        <methods>
+          <include name="customerSearch"/>
+          <include name="beforeMethod"/>
+          <include name="threadsleep"/>
+          <include name="browserClose"/>
+        </methods>
+      </class> <!-- com.bt.MyOrder.AddProductAfterQuoteCreation -->
+    </classes>
+  </test> <!-- C:/Users/612627350/MyOrderRAT/MyOrderAT(failed) -->
+</suite> <!-- Failed suite [MyOrder Automated Tests] -->

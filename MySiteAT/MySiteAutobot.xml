@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MySiteAutomation">
+<listeners>
+<listener class-name="com.mysite.utilities.ExtentListenerClass"></listener>
+</listeners>
+  <test thread-count="5"  name="SubLocationCreation">
+    <classes>
+      <!--  <class name="com.mysite.testcases.TC_AddNewSublocationTest"/>-->
+      <class name="com.mysite.testcases.TC_AddNewSite"/>
+    </classes>
+  </test> <!-- SubLocationCreation -->
+</suite> <!-- MySiteAutomation -->
